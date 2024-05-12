@@ -6,4 +6,4 @@ Entregar los archivos de código en un comprimido con el nombre siguiendo el for
 apellidoPaterno_apellidoMaterno_6
 
 i## Archivo a Entregar
-:paperclip: ![Archivo adjunto de la actividad](romero_brambila_6.zip)
+:paperclip: ![Archivo adjunto de la actividad](Romero_Brambila_6.zip)
